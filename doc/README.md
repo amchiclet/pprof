@@ -192,7 +192,9 @@ the graph, controlled by the *nodecount* option.
 
 * **Node Color**:
   * large positive cum values are red.
-  * large negative cum values are green.
+  * large negative cum values are green. Test [link](#comparing-profiles)
+  * large negative cum values are green. Test [link with newline]
+    (#comparing-profiles)
   * cum values close to zero are grey.
 
 * **Node Font Size**:
